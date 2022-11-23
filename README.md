@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @feldmangn
-- 👀 I’m interested in molecular dynamics and machine learning
-- 🌱 I’m currently learning discretization and 
+- 👀 I’m interested in 
+- 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
