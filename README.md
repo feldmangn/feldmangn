@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @feldmangn
-- 👀 I’m interested in 
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in computer vision and machine learning
+- 🌱 I’m currently learning about high content imaging
 
 <!---
 feldmangn/feldmangn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
